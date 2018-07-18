@@ -2,7 +2,7 @@
   "name": "CF",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://supreetid.github.io/CF/",
+  "homepage": "https://supreetid.github.io",
   "dependencies": {
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
